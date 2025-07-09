@@ -1,0 +1,4 @@
+
+# Environment variables for DQN project
+MODEL_SAVE_DIR=models/
+LOG_LEVEL=debug
